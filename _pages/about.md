@@ -12,4 +12,4 @@ Welcome! The East European Politics Graduate Workshop (EEPGW) is a bi-monthly, o
 
 Each month we will offer two types of meetings. First, there will be a read-first paper workshop where students are invited to share works-in-progress. Second, our monthly writing sessions provide a dedicated writing hour followed by a block for community problem-solving and troubleshooting on work at any stage-- whether an early project idea, research designs, or dissertation chapter. There is no expectation to participate in the writing group to present or attend the workshop, and vice versa. 
 
-We welcome graduate students at any stage in their career. Please contact eepg.workshop@gmail.com with further questions.
+We welcome graduate students at any stage in their career. Please contact [eepg.workshop@gmail.com](eepg.workshop@gmail.com) with further questions.
