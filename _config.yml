@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EEGPW"
+title                    : "EEPWW"
 title_separator          : "-"
-name                     : &name "East European Graduate Politics Workshop"
+name                     : &name "East European Politics Graduate Workshop"
 description              : &description "We are a workshop for political science graduate students working on East European politics. We meet bi-monthly online, where we host paper workshops and a writing group."
 url                      : https://eegp-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "eegp-workshop/eegp-workshop.github.io"
+repository               : "eepg-workshop/eepg-workshop.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "EEGPW"
+  name             : "EEPWW"
   avatar           : kalush.JPEG
-  bio              : "East European Graduate Politics Workshop"
+  bio              : "East European Politics Graduate Workshop"
   location         : "Virtual"
   employer         :
   pubmed           :  
   googlescholar    :  
-  email            :  "eegp.workshop@gmail.com"
+  email            :  "eepg.workshop@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "eegp-workshop"
+  github           : "eepg-workshop"
   google_plus      :
   keybase          :
   instagram        :
