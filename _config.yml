@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "EEPGW"
-  avatar           : "kalush.jpeg"
+  avatar           : /eepg-workshop/images/kalush.jpeg
   bio              : "East European Politics Graduate Workshop"
   location         : "Virtual"
   employer         :
