@@ -23,7 +23,7 @@ We welcome submissions from graduate students at all stages. Submissions could r
 
 The Call for Papers asks for the submission of an abstract at this time, with the expectation that the speaker will circulate a manuscript one week ahead of their presentation. 
 
-Please submit your proposal by March 15 2023 [here](https://forms.gle/ozkZKfXx4bzJMVcg7).
+Please submit your proposal by March 15th, 2023 [HERE](https://forms.gle/ozkZKfXx4bzJMVcg7).
 
 # Statement on Russia's War Against Ukraine
 The EEPGW wholeheartedly condemns Russia’s attacks on Ukraine's sovereignty over the last ten years and its recent full-scale invasion of Ukraine. We stand in support of Ukraine and its people as they fight in support of their country and freedom. For more information on the war, and how to support the Ukrainian war effort, refugees, and media, we include resources compiled by [Harvard Ukrainian Research Institute](https://huri.harvard.edu/russia-ukraine-war) and [Razom for Ukraine](https://www.razomforukraine.org/).
