@@ -27,11 +27,13 @@ Discussant: [Hanna Folsz (Stanford University)](https://politicalscience.stanfor
 ## Friday August 11 11-12 AM EST
 
 “The Long-term Legacies of Soviet Repression in Moldova,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
 Discussant: [Noah Dasanaike (Harvard University)](https://noahdasanaike.github.io/)
 
 ## Friday September 15 11-12 AM EST
 
 “Illiberal Incumbents and the Shifting Electorate: Evidence from Polish Elections,” [Marc Jacob (ETH Zurich)](https://www.marc-s-jacob.com/)
+
 Discussant: [Frances Cayton (Cornell University)](https://government.cornell.edu/frances-cayton)
 
 # Statement on Russia's War Against Ukraine
