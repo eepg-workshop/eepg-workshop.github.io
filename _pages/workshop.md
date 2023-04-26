@@ -5,7 +5,7 @@ permalink: /workshop/
 author_profile: true
 ---
 
-The EEPGW online workshop will be held every other week on Fridays between 5:00-6:00 PM Central European Time (8:00-9:00 AM PST, 11:00-12:00 AM EST). Every other meeting will be a paper presentation. This will last one hour. Participants will be expected to read the paper ahead of the meeting. After a brief presentation by the author(s), a discussant will provide comments and suggestions. We then open the floor for further questions and comments from the audience. Please register for our listserv to recieve the Zoom link and paper for each workshop.
+The EEPGW online workshop will be held every other week on Fridays between 5:00-6:00 PM Central European Time (8:00-9:00 AM PST, 11:00-12:00 AM EST). Every other meeting will be a paper presentation. This will last one hour. Participants will be expected to read the paper ahead of the meeting. After a brief presentation by the author(s), a discussant will provide comments and suggestions. We then open the floor for further questions and comments from the audience. Please [register for our listserv](http://eepurl.com/inB3N-/) to recieve the Zoom link and paper for each workshop.
 
 # Summer 2023 Workshop Schedule
 ## Friday May 19 11-12 AM EST 
