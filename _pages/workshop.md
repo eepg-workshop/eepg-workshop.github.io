@@ -28,13 +28,13 @@ Discussant: [Hanna Folsz (Stanford University)](https://politicalscience.stanfor
 
 “The Long-term Legacies of Soviet Repression in Moldova,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
 
-Discussant: [Noah Dasanaike (Harvard University)](https://noahdasanaike.github.io/)
+Discussant: [Frances Cayton (Cornell University)](https://government.cornell.edu/frances-cayton)
 
 ## Friday September 15 11-12 AM EST
 
 “Illiberal Incumbents and the Shifting Electorate: Evidence from Polish Elections,” [Marc Jacob (ETH Zurich)](https://www.marc-s-jacob.com/)
 
-Discussant: [Frances Cayton (Cornell University)](https://government.cornell.edu/frances-cayton)
+Discussant: [Courtney Blackington (University of North Carolina - Chapel Hill)](https://courtneyblackington.wordpress.com/)
 
 # Statement on Russia's War Against Ukraine
 The EEPGW wholeheartedly condemns Russia’s attacks on Ukraine's sovereignty over the last ten years and its recent full-scale invasion of Ukraine. We stand in support of Ukraine and its people as they fight in support of their country and freedom. For more information on the war, and how to support the Ukrainian war effort, refugees, and media, we include resources compiled by [Harvard Ukrainian Research Institute](https://huri.harvard.edu/russia-ukraine-war) and [Razom for Ukraine](https://www.razomforukraine.org/).
