@@ -7,7 +7,20 @@ author_profile: true
 
 The EEPGW online workshop will be held one Friday a month between 5:00-6:00 PM Central European Time (8:00-9:00 AM PST, 11:00-12:00 AM EST). The format is a paper presentation. After a brief presentation of the paper by the author(s), a discussant will provide comments and suggestions. We then open the floor for further questions and comments from the audience. Participants will be expected to read the paper ahead of the meeting.  Please [register for our listserv](http://eepurl.com/inB3N-/) to recieve the Zoom link and paper for each workshop.
 
-# Summer 2023 Workshop Schedule
+# Call for Papers: Fall/Winter 2023-24 Workshop
+We are excited to open our Call for Papers for the the Fall/Winter 2023-24 East European Politics Graduate Workshop. If you are interested in presenting your work, please submit your proposal [HERE](https://forms.gle/qJDj8Ddz8Jz4kEF46) by **11:59 PST Monday October 9th, 2023**. 
+
+The workshop will meet **once a month on Fridays between 11:00-12:00 AM EST** (8:00-9:00 AM PST, 5:00-6:00 PM CET) starting late October 2023. We welcome submissions from graduate students at all stages. Submissions could range from paper drafts in early stages to well-developed manuscripts and anything in between. We encourage submissions for projects that use a wide array of methods, including quantitative, qualitative, and a mixed approach.
+
+As we are organizing this workshop with the aim of fostering an active and engaged community of grad students working on East European politics, we wish to communicate two updated policies:
+ (1) **Repeat submissions from those who have already presented are welcome**
+ (2) For the Fall-Winter 2023-24 workshop we ask that **presenters commit to attending at least four out of the six workshop sessions.** 
+
+**DEADLINE for submission: October 9, 2023**
+
+**Schedule announcement: October 16, 2023**
+
+# Previous Series: Summer 2023 Workshop 
 ## Friday May 19 11-12 AM EST 
 “The Sacred Image of Russia as a Determinant in the Support of Russia-Ukraine War,” [Nela Mrchkovska (University of Washington)](https://www.polisci.washington.edu/people/nela-mrchkovska)
 
