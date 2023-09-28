@@ -13,7 +13,9 @@ We are excited to open our Call for Papers for the the Fall/Winter 2023-24 East 
 The workshop will meet **once a month on Fridays between 11:00-12:00 AM EST** (8:00-9:00 AM PST, 5:00-6:00 PM CET) starting late October 2023. We welcome submissions from graduate students at all stages. Submissions could range from paper drafts in early stages to well-developed manuscripts and anything in between. We encourage submissions for projects that use a wide array of methods, including quantitative, qualitative, and a mixed approach.
 
 As we are organizing this workshop with the aim of fostering an active and engaged community of grad students working on East European politics, we wish to communicate two updated policies:
+
  (1) **Repeat submissions from those who have already presented are welcome**
+ 
  (2) For the Fall-Winter 2023-24 workshop we ask that **presenters commit to attending at least four out of the six workshop sessions.** 
 
 **DEADLINE for submission: October 9, 2023**
