@@ -6,8 +6,8 @@ main:
   - title: "Workshop Schedule"
     url: /workshop/    
 
-  - title: "Writing Group"
-    url: /writing/    
+ # - title: "Writing Group"
+ #   url: /writing/    
     
   - title: "Organizers"
     url: /organizers/  
