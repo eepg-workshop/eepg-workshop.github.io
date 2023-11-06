@@ -33,16 +33,19 @@ Co-Authorship Speed Dating
 ## Friday February 2 11 11-12 AM EST
 
 “Losing my Religion: How Partisan Polarization Drives Secularization,” [Hanna Folsz (Stanford)](https://hannafolsz.github.io/) (presenter), joint with  [Sebastian Lucek (Stanford)](https://politicalscience.stanford.edu/people/sebastian-lucek)
+
 Discussant: [Marc Jacob (Stanford, ETH Zurich)](https://www.marc-s-jacob.com/)
 
 ## Friday February 23 11-12 AM EST
 
 “The War of the Mayors: Decentralization and Ukrainian Resistance Against Russia's Invasion,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
 Discussant: [Silviya Nitsova (UNC-Chapel Hill)](https://www.snitsova.com/)
 
 ## Friday March 15 11-12 AM EST
 
 “Electoral Rules and Rent-Seeking Opportunities: Evidence from Poland,” [Dias Akhmetbekov (NYU)](https://twitter.com/DAkhmetbekov)
+
 Discussant: [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
 
 
