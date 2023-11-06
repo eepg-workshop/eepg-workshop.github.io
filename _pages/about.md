@@ -12,20 +12,38 @@ Welcome! The East European Politics Graduate Workshop (EEPGW) is a once a month,
 
 We welcome graduate students at any stage in their career. Feel free to reach out to us at [eepg.workshop@gmail.com](mailto:eepg.workshop@gmail.com) with further questions.
 
-# Call for Papers - Fall/Winter 2023-24 Workshop
-We are excited to open our Call for Papers for the the Fall/Winter 2023-24 East European Politics Graduate Workshop. If you are interested in presenting your work, please submit your proposal [HERE](https://forms.gle/qJDj8Ddz8Jz4kEF46) by **11:59 PST Monday October 9th, 2023**. 
+# Fall/Winter 2023-24 Workshop 
 
-The workshop will meet **once a month on Fridays between 11:00-12:00 AM EST** (8:00-9:00 AM PST, 5:00-6:00 PM CET) starting late October 2023. We welcome submissions from graduate students at all stages. Submissions could range from paper drafts in early stages to well-developed manuscripts and anything in between. We encourage submissions for projects that use a wide array of methods, including quantitative, qualitative, and a mixed approach.
+## Friday October 27 11-12 AM EST
 
-As we are organizing this workshop with the aim of fostering an active and engaged community of grad students working on East European politics, we wish to communicate two updated policies:
+“The Ukrainian Refugee Crisis and the Politics of Public Opinion: Evidence from Hungary” [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/view/krisztinaszabo/home) (presenter), joint work with Ádám Reiff (CEU), and  Tom Pepinsky (Cornell)
 
- (1) **Repeat submissions from those who have already presented are welcome**
- 
- (2) For the Fall-Winter 2023-24 workshop we ask that **presenters commit to attending at least four out of the six workshop sessions.** 
+Discussant: [Nela Mrchkovska (Vienna University of Economics and Business)](https://www.nelamrchkovska.com/)
 
-**DEADLINE for submission: October 9, 2023**
+## Friday November 17 11-12 AM EST
 
-**Schedule announcement: October 16, 2023**
+“Religious Roots of Political Preferences: The Case of Old Believers in Imperial Rus” [Georgy Tarasenko (Cornell)](https://georgytarasenko.com/) (presenter), joint work with [Timur Natkhov (HSE)](https://sites.google.com/view/natkhov/home) 
+
+Discussant: [Igor Kolesnikov (University of California-Berkeley)](https://polisci.berkeley.edu/people/person/igorkolesnikov)
+
+## Friday December 15 11-11:30 AM EST
+
+Co-Authorship Speed Dating
+
+## Friday February 2 11 11-12 AM EST
+
+“Losing my Religion: How Partisan Polarization Drives Secularization,” [Hanna Folsz (Stanford)](https://hannafolsz.github.io/) (presenter), joint with  [Sebastian Lucek (Stanford)](https://politicalscience.stanford.edu/people/sebastian-lucek)
+Discussant: [Marc Jacob (Stanford, ETH Zurich)](https://www.marc-s-jacob.com/)
+
+## Friday February 23 11-12 AM EST
+
+“The War of the Mayors: Decentralization and Ukrainian Resistance Against Russia's Invasion,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+Discussant: [Silviya Nitsova (UNC-Chapel Hill)](https://www.snitsova.com/)
+
+## Friday March 15 11-12 AM EST
+
+“Electoral Rules and Rent-Seeking Opportunities: Evidence from Poland,” [Dias Akhmetbekov (NYU)](https://twitter.com/DAkhmetbekov)
+Discussant: [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
 
 
 
