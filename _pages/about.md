@@ -16,7 +16,7 @@ We welcome graduate students at any stage in their career. Feel free to reach ou
 
 ## Friday October 27 11-12 AM EST
 
-“The Ukrainian Refugee Crisis and the Politics of Public Opinion: Evidence from Hungary” [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/view/krisztinaszabo/home) (presenter), joint work with Ádám Reiff (CEU), and  Tom Pepinsky (Cornell)
+“The Ukrainian Refugee Crisis and the Politics of Public Opinion: Evidence from Hungary” [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/view/krisztinaszabo/home) (presenter), joint work with [Ádám Reiff (CEU)](https://sites.google.com/site/adamreiff/), and  [Tom Pepinsky (Cornell)](https://tompepinsky.com/)
 
 Discussant: [Nela Mrchkovska (Vienna University of Economics and Business)](https://www.nelamrchkovska.com/)
 
