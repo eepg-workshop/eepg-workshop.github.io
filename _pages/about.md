@@ -13,7 +13,7 @@ Welcome! The East European Politics Graduate Workshop (EEPGW) is a once a month,
 We welcome graduate students at any stage in their career. Feel free to reach out to us at [eepg.workshop@gmail.com](mailto:eepg.workshop@gmail.com) with further questions.
 
 # Call for Papers: Spring/Summer 2023-24 Workshop
-We are excited to open our Call for Papers for the Spring/Summer East European Politics Graduate Workshop! If you are interested in presenting your work, please submit your proposal [HERE](https://forms.gle/dP227SVzezYYU1i49) by **11:59 PST Friday March 29th, 2024.** 
+We are excited to open our Call for Papers for the Spring/Summer East European Politics Graduate Workshop! If you are interested in presenting your work, please submit your proposal [HERE](https://forms.gle/dP227SVzezYYU1i49) by **11:59 PST Saturday April 20th, 2024.** 
 
 The workshop will meet once a month on **Fridays between 11:00-12:00 AM EST (8:00-9:00 AM PST, 5:00-6:00 PM CET) starting late April 2024**. We welcome submissions from graduate students at all stages. Submissions could range from paper drafts in early stages to well-developed manuscripts and anything in between. We encourage submissions for projects that use a wide array of methods, including quantitative, qualitative, and a mixed approach.
 
@@ -22,7 +22,7 @@ As we are organizing this workshop with the aim of fostering an active and engag
  (2) For the Spring-Summer 2024 workshop we ask that **presenters commit to attending at least four out of the six workshop sessions.** Presenters will be expected to confirm which dates they will attend as a participant prior to being placed on the workshop schedule. 
 (3) We prioritize papers from those who previously have attended EEPG workshops as participants or discussants. 
 
-**DEADLINE for submission: March 29, 2024**
+**DEADLINE for submission: April 20, 2024**
 
 The Call for Papers asks for the submission of an abstract at this time, with the expectation that the speaker will circulate a manuscript one week ahead of their presentation. 
 
