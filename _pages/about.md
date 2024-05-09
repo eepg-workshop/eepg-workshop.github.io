@@ -12,19 +12,33 @@ Welcome! The East European Politics Graduate Workshop (EEPGW) is a once a month,
 
 We welcome graduate students at any stage in their career. Feel free to reach out to us at [eepg.workshop@gmail.com](mailto:eepg.workshop@gmail.com) with further questions.
 
-# Call for Papers: Spring/Summer 2023-24 Workshop
-We are excited to open our Call for Papers for the Spring/Summer East European Politics Graduate Workshop! If you are interested in presenting your work, please submit your proposal [HERE](https://forms.gle/dP227SVzezYYU1i49) by **11:59 PST Saturday April 20th, 2024.** 
+# Spring/Summer 2024 Workshop 
 
-The workshop will meet once a month on **Fridays between 11:00-12:00 AM EST (8:00-9:00 AM PST, 5:00-6:00 PM CET) starting late April 2024**. We welcome submissions from graduate students at all stages. Submissions could range from paper drafts in early stages to well-developed manuscripts and anything in between. We encourage submissions for projects that use a wide array of methods, including quantitative, qualitative, and a mixed approach.
+## Friday May 17th 11-12 AM EST 
 
-As we are organizing this workshop with the aim of fostering an active and engaged community of grad students working on East European politics, we wish to communicate three important policies:
- (1) Repeat submissions from those who have already presented are welcome.
- (2) For the Spring-Summer 2024 workshop we ask that **presenters commit to attending at least four out of the six workshop sessions.** Presenters will be expected to confirm which dates they will attend as a participant prior to being placed on the workshop schedule. 
-(3) We prioritize papers from those who previously have attended EEPG workshops as participants or discussants. 
+“The Electoral Effects of Anti-LGBTQ Policies” [Konstantin Bogatyrev (Bocconi University)](https://sites.google.com/view/konstantin-bogatyrev/), co-authored with Violeta Haas, Tarik Abou-Chadi, Heike Klüver and Lukas Stoetzer
+Discussant: [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/view/krisztinaszabo/home)
 
-**DEADLINE for submission: April 20, 2024**
+## Friday July 12 11-12 AM EST
 
-The Call for Papers asks for the submission of an abstract at this time, with the expectation that the speaker will circulate a manuscript one week ahead of their presentation. 
+“Civic Pluralism and Backsliding Incumbents,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) 
+Discussant: [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
+
+## Friday August 2 11 11-12 AM EST
+
+“From Repression to Participation: When Historical Political Repression Shape Long-term Electoral Participation,” [Zeth Isaksson (Stockholm University)](https://sites.google.com/view/zethisaksson/home)
+Discussant: [Georgy Tarasenko (Cornell)](https://georgytarasenko.com/)
+
+## Friday August 16 11-12 AM EST
+
+“The Political Connections of Mid-level Bureaucrats in Russia: Impacts on Organizational Performance,” [Daria Gerashchenko (European University at St Petersburg)](https://scholar.google.com/citations?user=SLxZzzIAAAAJ&hl=en)
+Discussant: [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
+## Friday September 13 11-12 AM EST
+
+“Selectively Responsive State: Bureaucratic Control over Information in Autocracies,” [Evgeniya Mitrokhina (University of Wisconsin- Madison)](https://polisci.wisc.edu/staff/mitrokhina-evgeniia/)
+Discussant: [Daniel Shapiro (University of Pennsylvania)](https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/daniel-shapiro)
+
 
 
 # Statement on Russia's War Against Ukraine
