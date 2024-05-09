@@ -12,26 +12,31 @@ The EEPGW online workshop will be held one Friday a month between 5:00-6:00 PM C
 ## Friday May 17th 11-12 AM EST 
 
 “The Electoral Effects of State-Sponsored Homophobia” [Konstantin Bogatyrev (Bocconi University)](https://sites.google.com/view/konstantin-bogatyrev/), co-authored with Violeta Haas, Tarik Abou-Chadi, Heike Klüver and Lukas Stoetzer
+
 Discussant: [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/view/krisztinaszabo/home)
 
 ## Friday July 12 11-12 AM EST
 
 “Civic Pluralism and Backsliding Incumbents,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) 
+
 Discussant: [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
 
 ## Friday August 2 11 11-12 AM EST
 
 “From Repression to Participation: When Historical Political Repression Shape Long-term Electoral Participation,” [Zeth Isaksson (Stockholm University)](https://sites.google.com/view/zethisaksson/home)
+
 Discussant: [Georgy Tarasenko (Cornell)](https://georgytarasenko.com/)
 
 ## Friday August 16 11-12 AM EST
 
 “The Political Connections of Mid-level Bureaucrats in Russia: Impacts on Organizational Performance,” [Daria Gerashchenko (European University at St Petersburg)](https://scholar.google.com/citations?user=SLxZzzIAAAAJ&hl=en)
+
 Discussant: [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
 
 ## Friday September 13 11-12 AM EST
 
 “Selectively Responsive State: Bureaucratic Control over Information in Autocracies,” [Evgeniya Mitrokhina (University of Wisconsin- Madison)](https://polisci.wisc.edu/staff/mitrokhina-evgeniia/)
+
 Discussant: [Daniel Shapiro (University of Pennsylvania)](https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/daniel-shapiro)
 
 
