@@ -11,7 +11,7 @@ The EEPGW online workshop will be held one Friday a month between 5:00-6:00 PM C
 
 ## Friday May 17th 11-12 AM EST 
 
-“The Electoral Effects of Anti-LGBTQ Policies” [Konstantin Bogatyrev (Bocconi University)](https://sites.google.com/view/konstantin-bogatyrev/), co-authored with Violeta Haas, Tarik Abou-Chadi, Heike Klüver and Lukas Stoetzer
+“The Electoral Effects of State-Sponsored Homophobia” [Konstantin Bogatyrev (Bocconi University)](https://sites.google.com/view/konstantin-bogatyrev/), co-authored with Violeta Haas, Tarik Abou-Chadi, Heike Klüver and Lukas Stoetzer
 Discussant: [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/view/krisztinaszabo/home)
 
 ## Friday July 12 11-12 AM EST
