@@ -17,7 +17,7 @@ Discussant: [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/vi
 
 ## Friday July 12 11-12 AM EST
 
-“Civic Pluralism and Backsliding Incumbents,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) 
+“Conspiracy Theory Communication Strategies and Support for Anti-Democratic Behavior,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) and [Courtney Blackington (University of Pittsburgh)](https://courtneyblackington.wordpress.com/)
 
 Discussant: [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
 
