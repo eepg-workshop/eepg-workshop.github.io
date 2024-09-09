@@ -38,13 +38,6 @@ Discussant: [Georgy Tarasenko (Cornell)](https://georgytarasenko.com/)
 
 Discussant: [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
 
-## Friday September 13 11-12 AM EST
-
-“Selectively Responsive State: Bureaucratic Control over Information in Autocracies,” [Evgeniya Mitrokhina (University of Wisconsin- Madison)](https://polisci.wisc.edu/staff/mitrokhina-evgeniia/)
-
-Discussant: [Daniel Shapiro (University of Pennsylvania)](https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/daniel-shapiro)
-
-
 
 # Statement on Russia's War Against Ukraine
 The EEPGW wholeheartedly condemns Russia’s attacks on Ukraine's sovereignty over the last ten years and its recent full-scale invasion of Ukraine. We stand in support of Ukraine and its people as they fight in support of their country and freedom. For more information on the war, and how to support the Ukrainian war effort, refugees, and media, we include resources compiled by [Harvard Ukrainian Research Institute](https://huri.harvard.edu/russia-ukraine-war) and [Razom for Ukraine](https://www.razomforukraine.org/).
