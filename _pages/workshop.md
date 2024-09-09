@@ -33,13 +33,6 @@ Discussant: [Georgy Tarasenko (Cornell)](https://georgytarasenko.com/)
 
 Discussant: [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
 
-## Friday September 13 11-12 AM EST
-
-“Selectively Responsive State: Bureaucratic Control over Information in Autocracies,” [Evgeniya Mitrokhina (University of Wisconsin- Madison)](https://polisci.wisc.edu/staff/mitrokhina-evgeniia/)
-
-Discussant: [Daniel Shapiro (University of Pennsylvania)](https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/daniel-shapiro)
-
-
 
 
 
