@@ -7,7 +7,45 @@ author_profile: true
 
 The EEPGW online workshop will be held one Friday a month between 5:00-6:00 PM Central European Time (8:00-9:00 AM PST, 11:00-12:00 AM EST). The format is a paper presentation. After a brief presentation of the paper by the author(s), a discussant will provide comments and suggestions. We then open the floor for further questions and comments from the audience. Participants will be expected to read the paper ahead of the meeting.  Please [register for our listserv](http://eepurl.com/inB3N-/) to recieve the Zoom link and paper for each workshop.
 
-# Spring/Summer 2024 Workshop 
+## Friday December 13th 11-12 AM EST
+
+“ Legacies of Repression in Times of Crisis: Evidence From Museum Visitor Books,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
+Discussant: [Frances Cayton (Cornell University)](https://www.francescayton.com/)
+
+
+
+## Friday January 3rd 11-12 AM EST
+
+“Goodbye Comrades! Origins of Illiberal Political Preferences,” [Ludwig Schulze (European University Institute)](https://ludwigschulze.github.io/ludwig-schulze/)
+
+Discussant: [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
+
+
+## Friday January 17th 11-12 AM EST
+
+“When Do Voters Punish Corrupt Candidates? Evidence from Hungary,”   [Krisztina Szabó (CEU, Royal Holloway, presenter)](https://sites.google.com/view/krisztinaszabo/home), co-authored with Ádám Reiff (CEU), Joost van Spanje (RHUL)
+Discussant: [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
+
+
+
+## Friday February 7th 11-12 AM EST
+
+“The End of Eastern Exceptionalism? Othering And Polarization in Eastern Europe,” [Tadeas Cely (Masaryk University Brno)](https://tadeascely.github.io/front.html), co-authored with [Lenka Hrbkova (Masaryk University Brno)](https://www.muni.cz/en/people/179403-lenka-hrbkova), [Matej Jungwirth (Northwestern University)](https://polisci.northwestern.edu/people/graduate-students/matej-jungwirth.html)
+
+Discussant: [Konstantin Bogatyrev (Bocconi University)](https://sites.google.com/view/konstantin-bogatyrev/)
+
+
+
+## Friday March 7th 11-12 AM EST
+
+“Democratic Restoration and Perceptions of Democracy,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) and [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
+
+Discussant: [Marc Jacob (University of Notre Dame)](https://www.marc-s-jacob.com/)
+
+
+# Previous Series: Spring/Summer 2024 Workshop 
 
 ## Friday May 17th 11-12 AM EST 
 
