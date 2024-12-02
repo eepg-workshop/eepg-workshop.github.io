@@ -12,31 +12,45 @@ Welcome! The East European Politics Graduate Workshop (EEPGW) is a once a month,
 
 We welcome graduate students at any stage in their career. Feel free to reach out to us at [eepg.workshop@gmail.com](mailto:eepg.workshop@gmail.com) with further questions.
 
-# Spring/Summer 2024 Workshop 
+# Fall/Winter 2024-25 Workshop 
 
-## Friday May 17th 11-12 AM EST 
+## Friday December 13th 11-12 AM EST
 
-“The Electoral Effects of State-Sponsored Homophobia” [Konstantin Bogatyrev (Bocconi University)](https://sites.google.com/view/konstantin-bogatyrev/), co-authored with Violeta Haas, Tarik Abou-Chadi, Heike Klüver and Lukas Stoetzer
+“ Legacies of Repression in Times of Crisis: Evidence From Museum Visitor Books,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
 
-Discussant: [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/view/krisztinaszabo/home)
+Discussant: [Frances Cayton (Cornell University)](https://www.francescayton.com/)
 
-## Friday July 12 11-12 AM EST
 
-“Conspiracy Theory Communication Strategies and Support for Anti-Democratic Behavior,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) and [Courtney Blackington (University of Pittsburgh)](https://courtneyblackington.wordpress.com/)
 
-Discussant: [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
+## Friday January 3rd 11-12 AM EST
 
-## Friday August 2 11 11-12 AM EST
-
-“From Repression to Participation: When Historical Political Repression Shape Long-term Electoral Participation,” [Zeth Isaksson (Stockholm University)](https://sites.google.com/view/zethisaksson/home)
-
-Discussant: [Georgy Tarasenko (Cornell)](https://georgytarasenko.com/)
-
-## Friday August 16 11-12 AM EST
-
-“The Political Connections of Mid-level Bureaucrats in Russia: Impacts on Organizational Performance,” [Daria Gerashchenko (European University at St Petersburg)](https://scholar.google.com/citations?user=SLxZzzIAAAAJ&hl=en)
+“Goodbye Comrades! Origins of Illiberal Political Preferences,” [Ludwig Schulze (European University Institute)](https://ludwigschulze.github.io/ludwig-schulze/)
 
 Discussant: [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
+
+
+## Friday January 17th 11-12 AM EST
+
+“When Do Voters Punish Corrupt Candidates? Evidence from Hungary,”   [Krisztina Szabó (CEU, Royal Holloway, presenter)](https://sites.google.com/view/krisztinaszabo/home), co-authored with Ádám Reiff (CEU), Joost van Spanje (RHUL)
+Discussant: [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
+
+
+
+## Friday February 7th 11-12 AM EST
+
+“The End of Eastern Exceptionalism? Othering And Polarization in Eastern Europe,” [Tadeas Cely (Masaryk University Brno)](https://tadeascely.github.io/front.html), co-authored with [Lenka Hrbkova (Masaryk University Brno)](https://www.muni.cz/en/people/179403-lenka-hrbkova), [Matej Jungwirth (Northwestern University)](https://polisci.northwestern.edu/people/graduate-students/matej-jungwirth.html)
+
+Discussant: [Konstantin Bogatyrev (Bocconi University)](https://sites.google.com/view/konstantin-bogatyrev/)
+
+
+
+## Friday March 7th 11-12 AM EST
+
+“Democratic Restoration and Perceptions of Democracy,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) and [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
+
+Discussant: [Marc Jacob (University of Notre Dame)](https://www.marc-s-jacob.com/)
+
 
 
 # Statement on Russia's War Against Ukraine
