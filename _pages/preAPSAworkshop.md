@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Time-Sharing Survey and Pre-APSA Workshop"
+title: "Time-Sharing Survey and 2025 APSA Pre-Conference"
 permalink: /preAPSAworkshop/
 author_profile: true
 ---
