@@ -12,8 +12,8 @@ main:
   - title: "Organizers"
     url: /organizers/  
     
- # - title: "Portfolio"
- #   url: /portfolio/
+  - title: "Time-Sharing Survey and Pre-APSA Workshop"
+    url: /preAPSAworkshop/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
