@@ -20,7 +20,7 @@ Applicants can submit a public opinion based design to be fielded in an East Eur
 
 **DEADLINE for submission: February 7th, 2025 Midnight PST**
 
-Please see **[THIS DOCUMENT](https://drive.google.com/file/d/1JwW8Ga7cybA8lqSpo1N9TQD5STe7nvEj/view?usp=sharing) for the full Call for Papers** including application details and an FAQ. If you have any questions, don't hesitate to contact us at [eepg.workshop@gmail.com](mailto:eepg.workshop@gmail.com). 
+Please see **[THIS DOCUMENT](https://drive.google.com/file/d/1JwW8Ga7cybA8lqSpo1N9TQD5STe7nvEj/view?usp=sharing) for the full Call for Papers** including application details and an FAQ. If you have any questions, don't hesitate to contact us at [eepg.workshop@gmail.com](mailto:eepg.workshop@gmail.com). **Applications must be submitted via [THIS FORM](https://docs.google.com/forms/d/e/1FAIpQLSc0t7WOt3_0BSt62IQeQiFcHp4Z19etrk30hxgMSB93ZiAldw/viewform).**
 
 **If you are a PhD-holding individual interested in reviewing proposals, discussing papers, or attending the workshop, please register your interest in [this short form](https://docs.google.com/forms/d/e/1FAIpQLSc47UatD9hFJSEcSZADwtGH1hqWHhhANfkBuIectSMkxgWOhg/viewform)**. We thank you for your time and interest. 
 
