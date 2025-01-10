@@ -12,7 +12,7 @@ Welcome! The East European Politics Graduate Workshop (EEPGW) is a once a month,
 
 We welcome graduate students at any stage in their career. Feel free to reach out to us at [eepg.workshop@gmail.com](mailto:eepg.workshop@gmail.com) with further questions.
 
-# CfP: Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and APSA 2025 Pre-Conference
+# CfP: Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and APSA 2025 Pre-Conference Workshop
 
 The East European Politics Grad Workshop is excited to invite applications for participation in a Time-Sharing Survey and Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe. 
 
