@@ -7,6 +7,66 @@ author_profile: true
 
 The EEPGW online workshop will be held one Friday a month between 5:00-6:00 PM Central European Time (8:00-9:00 AM PST, 11:00-12:00 AM EST). The format is a paper presentation. After a brief presentation of the paper by the author(s), a discussant will provide comments and suggestions. We then open the floor for further questions and comments from the audience. Participants will be expected to read the paper ahead of the meeting.  Please [register for our listserv](http://eepurl.com/inB3N-/) to recieve the Zoom link and paper for each workshop.
 
+# Current Series: Fall/Winter 2025-2026 Workshop
+
+## Friday October 10 11AM-1PM EST
+## Time Sharing Survey Mini Conference #1: Estonia 
+
+*Paper 1:* "The Democratising Effects of the 1989 Baltic Way Demonstration in Estonia,” [Robert Lipinski (Oxford, World Bank)](https://roberlipinski.mobirisesite.com/)
+
+*Paper 2:* "The Historical Determinants of Eastern European Solidarity with Ukraine," [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
+Discussant:  [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/view/krisztinaszabo/home)
+
+
+## Friday October 24 2025 11AM-12PM ET
+
+“Elite Economic Coercion and Opposition Political Selection in Authoritarian Dominant-Party Regimes,” [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
+
+Discussant:  [Ludwig Schulze (European University Institute)](https://ludwigschulze.github.io/ludwig-schulze/)
+
+
+
+## Friday November 7th 11-12 AM EST
+
+“Thinking About Going Back Home in War: Ukrainian Refugees in the Czech Republic,” [Matej Jungwirth (Northwestern University)](https://polisci.northwestern.edu/people/graduate-students/matej-jungwirth.html)
+Discussant: [Costin Ciobanu (Aarhus)](https://costinciobanu.github.io/)
+
+
+
+## Friday November 21th 11-12 AM EST
+
+“Beyond the Authoritarian Axis: Analyzing the Conditional Role of State Capacity in the Process of Authoritarian Diffusion in Belarus, Kazakhstan, and Kyrgyzstan,” [Ildar Daminov (Central European University)](https://dsps.ceu.edu/people/ildar-daminov)
+Discussant: [Daria Gerashchenko (European University at St Petersburg)](https://scholar.google.com/citations?user=SLxZzzIAAAAJ&hl=en)
+
+
+
+## Friday December 5th 11AM-1PM EST
+## Time Sharing Survey Mini Conference #2: Slovakia 
+
+*Paper 1:* “WWII Legacies, Memory Regimes and Support for Russia," [Ludwig Schulze (European University Institute)](https://ludwigschulze.github.io/ludwig-schulze/)
+
+*Paper 2:*  "It Takes Fire to Fight Fire: Populists, their Challengers, and Shifting Conceptions of “The Elite,” [Will Halm (Berkeley)](https://polisci.berkeley.edu/people/person/william-halm)
+
+Discussant: [Lotem Halevy (Cluster of Excellence, the Politics of Inequality, at the University of Konstanz)](https://www.lotemhalevy.com/)
+
+
+
+## Friday January 23rd 11-12 AM EST
+
+“The Enemy of My (Historical) Enemy Is My Friend?,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) and [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
+Discussant: [Robert Lipinski (Oxford, World Bank)](https://roberlipinski.mobirisesite.com/)
+
+
+
+## Friday February 6th 11-12 AM EST
+
+“Do theories of spatial far-right voting apply in Eastern Europe? A Bayesian analysis of the Lithuanian case,” [Domantas Undzėnas (University of Mannheim)](https://www.sowi.uni-mannheim.de/gschwend/team/postdocs-and-doctoral-students/domantas-undzenas/)
+Discussant:  [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
+
+
+# Previous Series: Winter/Spring 2025 Workshop
 ## Friday December 13th 11-12 AM EST
 
 “ Legacies of Repression in Times of Crisis: Evidence From Museum Visitor Books,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
@@ -43,7 +103,6 @@ Discussant: [Konstantin Bogatyrev (Bocconi University)](https://sites.google.com
 “Democratic Restoration and Perceptions of Democracy,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) and [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
 
 Discussant: [Marc Jacob (University of Notre Dame)](https://www.marc-s-jacob.com/)
-
 
 # Previous Series: Spring/Summer 2024 Workshop 
 
