@@ -12,59 +12,33 @@ Welcome! The East European Politics Graduate Workshop (EEPGW) is a once a month,
 
 We welcome graduate students at any stage in their career. Feel free to reach out to us at [eepg.workshop@gmail.com](mailto:eepg.workshop@gmail.com) with further questions.
 
-# CfP: Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and APSA 2025 Pre-Conference Workshop
+# CfP: Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and Fall 2025 Mini-Conferences 
 
-The East European Politics Grad Workshop is excited to invite applications for participation in a Time-Sharing Survey and Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe. 
+The East European Politics Grad Workshop is excited to announce our Fall 2025 Time Sharing Survey Mini-Conferences. Selected presenters participated in a blinded peer-review selection and spring 2025 survey design workshop in advance of fielding a time sharing survey in two less-commonly studied countries in the region: Estonia and Slovakia.
 
-Applicants can submit a public opinion based design to be fielded in an East European country in late Spring 2025 on a time-sharing survey with all costs covered by EEPGW. Successful applicants will participate in a one-day online workshop with other graduate students on 25 April 2025, have their survey questions fielded in the time-sharing survey, and then present their completed projects a pre-APSA workshop on Wednesday 10 September 2025. 
+The resulting research will be presented at two online mini-conferences in Fall 2025. The first is on Friday, October 10 and the second will be on Friday, December 5; both from 11am-1pm ET. For links and materials please sign up using our mailing list below.
 
-**DEADLINE for submission: February 7th, 2025 Midnight PST**
+## Friday October 10 11AM-1PM EST
+## Time Sharing Survey Mini Conference #1: Estonia 
 
-Please see **[THIS DOCUMENT](https://drive.google.com/file/d/1JwW8Ga7cybA8lqSpo1N9TQD5STe7nvEj/view?usp=sharing) for the full Call for Papers** including application details and an FAQ. If you have any questions, don't hesitate to contact us at [eepg.workshop@gmail.com](mailto:eepg.workshop@gmail.com). **Applications must be submitted via [THIS FORM](https://docs.google.com/forms/d/e/1FAIpQLSc0t7WOt3_0BSt62IQeQiFcHp4Z19etrk30hxgMSB93ZiAldw/viewform).**
+Paper 1: "The Democratising Effects of the 1989 Baltic Way Demonstration in Estonia,” [Robert Lipinski (Oxford, World Bank)](https://roberlipinski.mobirisesite.com/)
 
-**If you are a PhD-holding individual interested in reviewing proposals, discussing papers, or attending the workshop, please register your interest in [this short form](https://docs.google.com/forms/d/e/1FAIpQLSc47UatD9hFJSEcSZADwtGH1hqWHhhANfkBuIectSMkxgWOhg/viewform)**. We thank you for your time and interest. 
+Paper 2: "The Historical Determinants of Eastern European Solidarity with Ukraine," [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
+Discussant:  [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/view/krisztinaszabo/home)
+
+
+## Friday December 5th 11AM-1PM EST
+## Time Sharing Survey Mini Conference #2: Slovakia 
+
+Paper 1: “WWII Legacies, Memory Regimes and Support for Russia," [Ludwig Schulze (European University Institute)](https://ludwigschulze.github.io/ludwig-schulze/)
+
+Paper 2:  "It Takes Fire to Fight Fire: Populists, their Challengers, and Shifting Conceptions of “The Elite,” [Will Halm (Berkeley)](https://polisci.berkeley.edu/people/person/william-halm)
+
+Discussant: [Lotem Halevy (Cluster of Excellence, the Politics of Inequality, at the University of Konstanz)](https://www.lotemhalevy.com/)
+
 
 *The Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe is kindly sponsored by a 2024-25 Summer APSA Centennial Center Grant.* 
-
-
-# Fall/Winter 2024-25 Workshop 
-
-## Friday December 13th 11-12 AM EST
-
-“ Legacies of Repression in Times of Crisis: Evidence From Museum Visitor Books,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
-
-Discussant: [Frances Cayton (Cornell University)](https://www.francescayton.com/)
-
-
-
-## Friday January 3rd 11-12 AM EST
-
-“Goodbye Comrades! Origins of Illiberal Political Preferences,” [Ludwig Schulze (European University Institute)](https://ludwigschulze.github.io/ludwig-schulze/)
-
-Discussant: [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
-
-
-
-## Friday January 17th 11-12 AM EST
-
-“When Do Voters Punish Corrupt Candidates? Evidence from Hungary,”   [Krisztina Szabó (CEU, Royal Holloway, presenter)](https://sites.google.com/view/krisztinaszabo/home), co-authored with Ádám Reiff (CEU), Joost van Spanje (RHUL)
-Discussant: [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
-
-
-
-## Friday February 7th 11-12 AM EST
-
-“The End of Eastern Exceptionalism? Othering And Polarization in Eastern Europe,” [Tadeas Cely (Masaryk University Brno)](https://tadeascely.github.io/front.html), co-authored with [Lenka Hrbkova (Masaryk University Brno)](https://www.muni.cz/en/people/179403-lenka-hrbkova), [Matej Jungwirth (Northwestern University)](https://polisci.northwestern.edu/people/graduate-students/matej-jungwirth.html)
-
-Discussant: [Konstantin Bogatyrev (Bocconi University)](https://sites.google.com/view/konstantin-bogatyrev/)
-
-
-
-## Friday March 7th 11-12 AM EST
-
-“Democratic Restoration and Perceptions of Democracy,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) and [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
-
-Discussant: [Marc Jacob (University of Notre Dame)](https://www.marc-s-jacob.com/)
 
 
 
