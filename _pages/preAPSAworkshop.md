@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Time-Sharing Survey and 2025 Mini-Conferences"
-permalink: /preAPSAworkshop/
+permalink: /timesharingworkshop/
 author_profile: true
 ---
 The East European Politics Grad Workshop is excited to invite applications for participation in a **Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and Mini-Conferences.**
