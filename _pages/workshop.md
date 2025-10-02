@@ -37,6 +37,7 @@ Discussant: [Costin Ciobanu (Aarhus)](https://costinciobanu.github.io/)
 ## Friday November 21th 11-12 AM EST
 
 “Beyond the Authoritarian Axis: Analyzing the Conditional Role of State Capacity in the Process of Authoritarian Diffusion in Belarus, Kazakhstan, and Kyrgyzstan,” [Ildar Daminov (Central European University)](https://dsps.ceu.edu/people/ildar-daminov)
+
 Discussant: [Daria Gerashchenko (European University at St Petersburg)](https://scholar.google.com/citations?user=SLxZzzIAAAAJ&hl=en)
 
 
@@ -63,6 +64,7 @@ Discussant: [Robert Lipinski (Oxford, World Bank)](https://roberlipinski.mobiris
 ## Friday February 6th 11-12 AM EST
 
 “Do theories of spatial far-right voting apply in Eastern Europe? A Bayesian analysis of the Lithuanian case,” [Domantas Undzėnas (University of Mannheim)](https://www.sowi.uni-mannheim.de/gschwend/team/postdocs-and-doctoral-students/domantas-undzenas/)
+
 Discussant:  [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
 
 
