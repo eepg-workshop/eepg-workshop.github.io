@@ -30,6 +30,7 @@ Discussant:  [Ludwig Schulze (European University Institute)](https://ludwigschu
 ## Friday November 7th 11-12 AM EST
 
 “Thinking About Going Back Home in War: Ukrainian Refugees in the Czech Republic,” [Matej Jungwirth (Northwestern University)](https://polisci.northwestern.edu/people/graduate-students/matej-jungwirth.html)
+
 Discussant: [Costin Ciobanu (Aarhus)](https://costinciobanu.github.io/)
 
 
