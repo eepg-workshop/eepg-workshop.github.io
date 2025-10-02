@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Time-Sharing Survey and 2025 APSA Pre-Conference"
+title: "Time-Sharing Survey and 2025 Mini-Conferences"
 permalink: /preAPSAworkshop/
 author_profile: true
 ---
-The East European Politics Grad Workshop is excited to invite applications for participation in a **Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and APSA 2025 Pre-Conference.**
+The East European Politics Grad Workshop is excited to invite applications for participation in a **Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and Mini-Conferences.**
 
-Applicants can submit a public opinion based design to be fielded in an East European country in late Spring 2025 on a time-sharing survey with all costs covered by EEPGW. Successful applicants will participate in a one-day online workshop with other graduate students on 25 April 2025, have their survey questions fielded in the time-sharing survey, and then present their completed projects a pre-APSA workshop on Wednesday 10 September 2025. 
+Applicants can submit a public opinion based design to be fielded in an East European country in late Spring 2025 on a time-sharing survey with all costs covered by EEPGW. Successful applicants will participate in a one-day online workshop with other graduate students on 25 April 2025, have their survey questions fielded in the time-sharing survey, and then present their completed projects at mini conferences in Fall 2025.
 
 **DEADLINE for submission: February 7th, 2025 Midnight PST**
 
