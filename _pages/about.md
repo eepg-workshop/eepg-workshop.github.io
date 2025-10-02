@@ -12,7 +12,68 @@ Welcome! The East European Politics Graduate Workshop (EEPGW) is a once a month,
 
 We welcome graduate students at any stage in their career. Feel free to reach out to us at [eepg.workshop@gmail.com](mailto:eepg.workshop@gmail.com) with further questions.
 
-# CfP: Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and Fall 2025 Mini-Conferences 
+# Current Series: Fall/Winter 2025-2026 Workshop
+
+## Friday October 10 11AM-1PM EST
+## Time Sharing Survey Mini Conference #1: Estonia 
+
+*Paper 1:* "The Democratising Effects of the 1989 Baltic Way Demonstration in Estonia,” [Robert Lipinski (Oxford, World Bank)](https://roberlipinski.mobirisesite.com/)
+
+*Paper 2:* "The Historical Determinants of Eastern European Solidarity with Ukraine," [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
+Discussant:  [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/view/krisztinaszabo/home)
+
+
+## Friday October 24 2025 11AM-12PM ET
+
+“Elite Economic Coercion and Opposition Political Selection in Authoritarian Dominant-Party Regimes,” [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
+
+Discussant:  [Ludwig Schulze (European University Institute)](https://ludwigschulze.github.io/ludwig-schulze/)
+
+
+
+## Friday November 7th 11-12 AM EST
+
+“Thinking About Going Back Home in War: Ukrainian Refugees in the Czech Republic,” [Matej Jungwirth (Northwestern University)](https://polisci.northwestern.edu/people/graduate-students/matej-jungwirth.html)
+Discussant: [Costin Ciobanu (Aarhus)](https://costinciobanu.github.io/)
+
+
+
+## Friday November 21th 11-12 AM EST
+
+“Beyond the Authoritarian Axis: Analyzing the Conditional Role of State Capacity in the Process of Authoritarian Diffusion in Belarus, Kazakhstan, and Kyrgyzstan,” [Ildar Daminov (Central European University)](https://dsps.ceu.edu/people/ildar-daminov)
+
+Discussant: [Daria Gerashchenko (European University at St Petersburg)](https://scholar.google.com/citations?user=SLxZzzIAAAAJ&hl=en)
+
+
+
+## Friday December 5th 11AM-1PM EST
+## Time Sharing Survey Mini Conference #2: Slovakia 
+
+*Paper 1:* “WWII Legacies, Memory Regimes and Support for Russia," [Ludwig Schulze (European University Institute)](https://ludwigschulze.github.io/ludwig-schulze/)
+
+*Paper 2:*  "It Takes Fire to Fight Fire: Populists, their Challengers, and Shifting Conceptions of “The Elite,” [Will Halm (Berkeley)](https://polisci.berkeley.edu/people/person/william-halm)
+
+Discussant: [Lotem Halevy (Cluster of Excellence, the Politics of Inequality, at the University of Konstanz)](https://www.lotemhalevy.com/)
+
+
+
+## Friday January 23rd 11-12 AM EST
+
+“The Enemy of My (Historical) Enemy Is My Friend?,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) and [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
+Discussant: [Robert Lipinski (Oxford, World Bank)](https://roberlipinski.mobirisesite.com/)
+
+
+
+## Friday February 6th 11-12 AM EST
+
+“Do theories of spatial far-right voting apply in Eastern Europe? A Bayesian analysis of the Lithuanian case,” [Domantas Undzėnas (University of Mannheim)](https://www.sowi.uni-mannheim.de/gschwend/team/postdocs-and-doctoral-students/domantas-undzenas/)
+
+Discussant:  [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
+
+
+# Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and Fall 2025 Mini-Conferences 
 
 The East European Politics Grad Workshop is excited to announce our Fall 2025 Time Sharing Survey Mini-Conferences. Selected presenters participated in a blinded peer-review selection and spring 2025 survey design workshop in advance of fielding a time sharing survey in two less-commonly studied countries in the region: Estonia and Slovakia.
 
