@@ -5,8 +5,6 @@ permalink: /timesharingworkshop/
 author_profile: true
 ---
 
-# Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and Fall 2025 Mini-Conferences 
-
 The East European Politics Grad Workshop is excited to announce our Fall 2025 Time Sharing Survey Mini-Conferences, hosted by the **Graduate Working Group on Democratic Politics and Public Opinion in East-Central Europe Time Sharing Survey and Mini-Conferences.** and made possible by a 2024-25 APSA Centennial Center Grant. Selected presenters participated in a blinded peer-review selection and spring 2025 survey design workshop in advance of fielding a time sharing survey in two less-commonly studied countries in the region: Estonia and Slovakia.
 
 The resulting research will be presented at two online mini-conferences in Fall 2025. The first is on Friday, October 10 and the second will be on Friday, December 5; both from 11am-1pm ET. For links and materials please sign up using our mailing list below.
