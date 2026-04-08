@@ -46,7 +46,7 @@ Discussant: [Ildar Daminov (Central European University)](https://dsps.ceu.edu/p
 
 
 ## Friday August 21st 11-12 AM EST
-“Surviving the Commons: Land Tenure, Extraction, and Revolution,” Igor Kolesnikov (UC Berkeley)
+“Surviving the Commons: Land Tenure, Extraction, and Revolution,” [Igor Kolesnikov (UC Berkeley)](https://polisci.berkeley.edu/people/person/igorkolesnikov)
 
 Discussant: [Frances Cayton (Cornell University)](https://www.francescayton.com/)
  
