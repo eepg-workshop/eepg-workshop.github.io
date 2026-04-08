@@ -7,7 +7,7 @@ author_profile: true
 
 The EEPGW online workshop will be held one Friday a month between 5:00-6:00 PM Central European Time (8:00-9:00 AM PST, 11:00-12:00 AM EST). The format is a paper presentation. After a brief presentation of the paper by the author(s), a discussant will provide comments and suggestions. We then open the floor for further questions and comments from the audience. Participants will be expected to read the paper ahead of the meeting.  Please [register for our listserv](http://eepurl.com/inB3N-/) to recieve the Zoom link and paper for each workshop.
 
-# Current Series: Fall/Winter 2025-2026 Workshop
+# Previous Series: Fall/Winter 2025-2026 Workshop
 
 ## Friday October 10 11AM-1PM EST
 ## Time Sharing Survey Mini Conference #1: Estonia 
