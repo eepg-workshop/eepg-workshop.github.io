@@ -12,67 +12,38 @@ Welcome! The East European Politics Graduate Workshop (EEPGW) is a once a month,
 
 We welcome graduate students at any stage in their career. Feel free to reach out to us at [eepg.workshop@gmail.com](mailto:eepg.workshop@gmail.com) with further questions.
 
-# Current Series: Fall/Winter 2025-2026 Workshop
+# Current Series: Spring/Summer 2026 Workshop
 
-## Friday October 10 11AM-1PM EST
-### Time Sharing Survey Mini Conference #1: Estonia 
-
-*Paper 1:* "The Democratising Effects of the 1989 Baltic Way Demonstration in Estonia,” [Robert Lipinski (Oxford, World Bank)](https://roberlipinski.mobirisesite.com/)
-
-*Paper 2:* "The Historical Determinants of Eastern European Solidarity with Ukraine," [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
-
-Discussant:  [Krisztina Szabó (CEU, Royal Holloway)](https://sites.google.com/view/krisztinaszabo/home)
+## Friday April 17th 11AM-12PM EST
+“Decentralization and Ukrainian Resistance Against Russia's Invasion,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+Discussant: [Silviya Nitsova (University of Manchester)](https://www.snitsova.com/)
 
 
-## Friday October 24 2025 11AM-12PM ET
-
-“Elite Economic Coercion and Opposition Political Selection in Authoritarian Dominant-Party Regimes,” [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
-
-Discussant:  [Ludwig Schulze (European University Institute)](https://ludwigschulze.github.io/ludwig-schulze/)
+## Friday May 8th 11AM-12PM EST
+“When Does Civil Society Respond to Government Threats?,” [Frances Cayton (Cornell University)](https://www.francescayton.com/)
+Discussant: [Will Halm (Berkeley)](https://polisci.berkeley.edu/people/person/william-halm)
 
 
-
-## Friday November 7th 11-12 AM EST
-
-“Thinking About Going Back Home in War: Ukrainian Refugees in the Czech Republic,” [Matej Jungwirth (Northwestern University)](https://polisci.northwestern.edu/people/graduate-students/matej-jungwirth.html)
-
-Discussant: [Costin Ciobanu (Aarhus)](https://costinciobanu.github.io/)
+## Friday May 29th 11-12 AM EST
+“Ethnic identity, citizenship, and public support for NATO in Estonia,  2019–2024,” [Yurii Kondratyk (European University Institute)](https://www.eui.eu/people?id=yurii-kondratyk) and [Piret Ehin (University of Tartu)](https://ut.ee/en/employee/piret-ehin)
+Discussant: [Robert Lipinski (Oxford)](https://roberlipinski.mobirisesite.com/)
 
 
-
-## Friday November 21th 11-12 AM EST
-
-“Beyond the Authoritarian Axis: Analyzing the Conditional Role of State Capacity in the Process of Authoritarian Diffusion in Belarus, Kazakhstan, and Kyrgyzstan,” [Ildar Daminov (Central European University)](https://dsps.ceu.edu/people/ildar-daminov)
-
-Discussant: [Daria Gerashchenko (European University at St Petersburg)](https://scholar.google.com/citations?user=SLxZzzIAAAAJ&hl=en)
+## Friday June 26th 11-12 AM EST
+“A Tale of Two Villages: Political Causes and Consequences of Within-Rural Inequality,” [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
+Discussant: [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
 
 
+## Friday August 14th 11-12 AM EST
 
-## Friday December 5th 11AM-1PM EST
-### Time Sharing Survey Mini Conference #2: Slovakia 
-
-*Paper 1:* “WWII Legacies, Memory Regimes and Support for Russia," [Ludwig Schulze (European University Institute)](https://ludwigschulze.github.io/ludwig-schulze/)
-
-*Paper 2:*  "It Takes Fire to Fight Fire: Populists, their Challengers, and Shifting Conceptions of “The Elite,” [Will Halm (Berkeley)](https://polisci.berkeley.edu/people/person/william-halm)
-
-Discussant: [Lotem Halevy (Cluster of Excellence, the Politics of Inequality, at the University of Konstanz)](https://www.lotemhalevy.com/)
+“Do Wartime Casualties Affect Support for the Autocrat? Evidence from Russia,” [Konstantin Bogatyrev (LSE)](https://www.lse.ac.uk/government/people/academic-staff/konstantin-bogatyrev), [Georgy Tarasenko (Cornell)](https://georgytarasenko.com/), [Andrey Tkachenko (Nazarbayev University)](https://research.nu.edu.kz/en/persons/andrey-tkachenko/), [Nikita Savin (UCLA)](https://polisci.ucla.edu/person/nikita-savin/)
+Discussant: [Ildar Daminov (Central European University)](https://dsps.ceu.edu/people/ildar-daminov)
 
 
-
-## Friday January 23rd 11-12 AM EST
-
-“The Enemy of My (Historical) Enemy Is My Friend?,” [Frances Cayton (Cornell University)](https://www.francescayton.com/) and [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
-
-Discussant: [Robert Lipinski (Oxford, World Bank)](https://roberlipinski.mobirisesite.com/)
-
-
-
-## Friday February 6th 11-12 AM EST
-
-“Do theories of spatial far-right voting apply in Eastern Europe? A Bayesian analysis of the Lithuanian case,” [Domantas Undzėnas (University of Mannheim)](https://www.sowi.uni-mannheim.de/gschwend/team/postdocs-and-doctoral-students/domantas-undzenas/)
-
-Discussant:  [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
-
+## Friday August 21st 11-12 AM EST
+“Surviving the Commons: Land Tenure, Extraction, and Revolution,” Igor Kolesnikov (UC Berkeley)
+Discussant: [Frances Cayton (Cornell University)](https://www.francescayton.com/)
+ 
 
 
 # Statement on Russia's War Against Ukraine
