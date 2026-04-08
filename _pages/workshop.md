@@ -7,6 +7,44 @@ author_profile: true
 
 The EEPGW online workshop will be held one Friday a month between 5:00-6:00 PM Central European Time (8:00-9:00 AM PST, 11:00-12:00 AM EST). The format is a paper presentation. After a brief presentation of the paper by the author(s), a discussant will provide comments and suggestions. We then open the floor for further questions and comments from the audience. Participants will be expected to read the paper ahead of the meeting.  Please [register for our listserv](http://eepurl.com/inB3N-/) to recieve the Zoom link and paper for each workshop.
 
+# Current Series: Spring/Summer 2026 Workshop
+
+## Friday April 17th 11AM-12PM EST
+“Decentralization and Ukrainian Resistance Against Russia's Invasion,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
+Discussant: [Silviya Nitsova (University of Manchester)](https://www.snitsova.com/)
+
+
+## Friday May 8th 11AM-12PM EST
+“When Does Civil Society Respond to Government Threats?,” [Frances Cayton (Cornell University)](https://www.francescayton.com/)
+
+Discussant: [Will Halm (Berkeley)](https://polisci.berkeley.edu/people/person/william-halm)
+
+
+## Friday May 29th 11-12 AM EST
+“Ethnic identity, citizenship, and public support for NATO in Estonia,  2019–2024,” [Yurii Kondratyk (European University Institute)](https://www.eui.eu/people?id=yurii-kondratyk) and [Piret Ehin (University of Tartu)](https://ut.ee/en/employee/piret-ehin)
+
+Discussant: [Robert Lipinski (Oxford)](https://roberlipinski.mobirisesite.com/)
+
+
+## Friday June 26th 11-12 AM EST
+“A Tale of Two Villages: Political Causes and Consequences of Within-Rural Inequality,” [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
+
+Discussant: [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
+
+
+## Friday August 14th 11-12 AM EST
+
+“Do Wartime Casualties Affect Support for the Autocrat? Evidence from Russia,” [Konstantin Bogatyrev (LSE)](https://www.lse.ac.uk/government/people/academic-staff/konstantin-bogatyrev), [Georgy Tarasenko (Cornell)](https://georgytarasenko.com/), [Andrey Tkachenko (Nazarbayev University)](https://research.nu.edu.kz/en/persons/andrey-tkachenko/), [Nikita Savin (UCLA)](https://polisci.ucla.edu/person/nikita-savin/)
+
+Discussant: [Ildar Daminov (Central European University)](https://dsps.ceu.edu/people/ildar-daminov)
+
+
+## Friday August 21st 11-12 AM EST
+“Surviving the Commons: Land Tenure, Extraction, and Revolution,” [Igor Kolesnikov (UC Berkeley)](https://polisci.berkeley.edu/people/person/igorkolesnikov)
+
+Discussant: [Frances Cayton (Cornell University)](https://www.francescayton.com/)
+ 
 # Previous Series: Fall/Winter 2025-2026 Workshop
 
 ## Friday October 10 11AM-1PM EST
