@@ -16,32 +16,38 @@ We welcome graduate students at any stage in their career. Feel free to reach ou
 
 ## Friday April 17th 11AM-12PM EST
 “Decentralization and Ukrainian Resistance Against Russia's Invasion,” [Isabelle DeSisto (Princeton University)](https://isabelledesisto.com/)
+
 Discussant: [Silviya Nitsova (University of Manchester)](https://www.snitsova.com/)
 
 
 ## Friday May 8th 11AM-12PM EST
 “When Does Civil Society Respond to Government Threats?,” [Frances Cayton (Cornell University)](https://www.francescayton.com/)
+
 Discussant: [Will Halm (Berkeley)](https://polisci.berkeley.edu/people/person/william-halm)
 
 
 ## Friday May 29th 11-12 AM EST
 “Ethnic identity, citizenship, and public support for NATO in Estonia,  2019–2024,” [Yurii Kondratyk (European University Institute)](https://www.eui.eu/people?id=yurii-kondratyk) and [Piret Ehin (University of Tartu)](https://ut.ee/en/employee/piret-ehin)
+
 Discussant: [Robert Lipinski (Oxford)](https://roberlipinski.mobirisesite.com/)
 
 
 ## Friday June 26th 11-12 AM EST
 “A Tale of Two Villages: Political Causes and Consequences of Within-Rural Inequality,” [Felix Beilin (Princeton)](https://politics.princeton.edu/people/felix-beilin)
+
 Discussant: [Hanna Folsz (Stanford University)](https://hannafolsz.github.io/)
 
 
 ## Friday August 14th 11-12 AM EST
 
 “Do Wartime Casualties Affect Support for the Autocrat? Evidence from Russia,” [Konstantin Bogatyrev (LSE)](https://www.lse.ac.uk/government/people/academic-staff/konstantin-bogatyrev), [Georgy Tarasenko (Cornell)](https://georgytarasenko.com/), [Andrey Tkachenko (Nazarbayev University)](https://research.nu.edu.kz/en/persons/andrey-tkachenko/), [Nikita Savin (UCLA)](https://polisci.ucla.edu/person/nikita-savin/)
+
 Discussant: [Ildar Daminov (Central European University)](https://dsps.ceu.edu/people/ildar-daminov)
 
 
 ## Friday August 21st 11-12 AM EST
 “Surviving the Commons: Land Tenure, Extraction, and Revolution,” Igor Kolesnikov (UC Berkeley)
+
 Discussant: [Frances Cayton (Cornell University)](https://www.francescayton.com/)
  
 
